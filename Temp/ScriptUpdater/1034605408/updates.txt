@@ -1,0 +1,1 @@
+Temp/ScriptUpdater/1034605408\1582228375_Movimiento.cs => Assets/script/Movimiento.cs
